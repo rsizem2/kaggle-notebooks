@@ -130,3 +130,6 @@ dmypy.json
 
 # Catboost
 notebooks/catboost_info/*
+
+# Data
+data/*
