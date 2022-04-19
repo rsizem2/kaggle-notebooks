@@ -1,6 +1,6 @@
 # README
 
-This notebook contains my work relating to Kaggle Learn courses and their associated competitions.
+This repository contains backups of various Kaggle notebooks made using the new ["Save to Github"](https://www.kaggle.com/discussions/product-feedback/295170) feature.
 
 ## Reference Notebooks
 
